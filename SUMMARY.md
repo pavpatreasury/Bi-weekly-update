@@ -5,4 +5,4 @@
 ## Updates By Week
 
 * [2022 Updates](updates-by-week/2022-updates/README.md)
-  * [Week ending Sept. 9th](updates-by-week/2022-updates/week-ending-sept.-9th.md)
+  * [Week ending Sept. 16th](updates-by-week/2022-updates/week-ending-sept.-16th.md)

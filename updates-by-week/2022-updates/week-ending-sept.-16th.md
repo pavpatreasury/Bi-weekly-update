@@ -1,14 +1,14 @@
-# Week ending Sept. 9th
+# Week ending Sept. 16th
 
 <figure><img src="../../.gitbook/assets/PAVPA Logo - Small.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-**Open for Business:**The PA/vPA Operations Treasury Community is up and running and has successfully approved its first applicant (for funding a new tool for PAs), as well as chartered its first governing body (a vPA Working Group) which is already off to a fast start facilitating the community owned vPA Petitions Process!  Check out the highlights below and follow [this link](week-ending-sept.-9th.md) for more details.&#x20;
+**Open for Business:**The PA/vPA Operations Treasury Community is up and running and has successfully approved its first applicant (for funding a new tool for PAs), as well as chartered its first governing body (a vPA Working Group) which is already off to a fast start facilitating the community owned vPA Petitions Process!  Check out the highlights below and follow [this link](week-ending-sept.-16th.md) for more details.&#x20;
 {% endhint %}
 
 * AIM successfully approved for its PA ID-Finder tool
 * vPA Process Working Group Charter accepted by the Treasury
-* 2/3 vPA petitions completed with the last one on the schedule
+* 2/3 vPA petitions completed with the last one nearing finalization
 * vPA working group has begun to build out the architecture around bounties for its members
 
 Elsewhere in the QA Community[ this TODO List ](https://docs.google.com/document/d/1-Uheb5cH6PgjURBod3i95lnjRt5G0Q6WU7n21sSdqvs/edit#heading=h.70qyzqqlye91)for getting a jumpstart on the process of iterating Community Guidelines for Fund 10 has been making the rounds.  Add your thoughts and insights, and lets keep pushing to get the process organized, coordinated and functioning (and funded through the PA/vPA treasury!)\
@@ -60,12 +60,12 @@ The vPA WG is required to allow unlimited membership without restrictions, so do
 The vPA Petitions Process (documented here) is a limited time and scope process introduced by the community to collect information about issues found during the vPA process, in particular issues around rewards distribution.  This information is collated via discussion around "petitions" submitted by community members, and then presented to IOG with a requested outcome.  Sometimes the outcomes are realized, sometimes not, but we always learn something that can help us improve the vPA process.
 {% endhint %}
 
-The first 3 petitions have been completed and are ready to be sent on to IOG
+The first 2 petitions have been completed and are ready to be sent on to IOG
 
 * [Petition by Michael Macko](https://docs.google.com/document/d/1\_I-gq4m3PIA6fZhh3N4bMHOIN6a2G88YtID1CSZfvmM/edit?usp=sharing)
 * [Petition by Tomi Astikainen](https://docs.google.com/document/d/1OlmNDVPO4q6M0pJYJxO7yZ5wRC-oZizQqsvOhzrl\_DI/edit?usp=sharing)
 
-A final petition is currently ongoing, [brought against Dimitri Fernando](https://docs.google.com/document/d/1kJCytu6PtD8NNqth6y64aDN2ruwAsBE1uKcv0bUkPWY/edit) (see his initial [responses here](https://docs.google.com/document/d/1ci-MaqilnWXLibfTUunjEbVzGDCToicF7QC\_dlacWw0/edit?usp=sharing), and know that this is an ongoing discussion).  It is currently scheduled to be presented around the 14th of September, however an async process is being developed in order to get the widest community participation possible on this challenging petition. [Follow along here for the latest updates](https://discord.com/channels/946921942143885342/1011352732092858398), including when voting on the petition is open.  Hoping for plenty of participation and insight from the community on the issues sensed here.
+A final petition is currently ongoing, [brought against Dimitri Fernando](https://docs.google.com/document/d/1kJCytu6PtD8NNqth6y64aDN2ruwAsBE1uKcv0bUkPWY/edit) (see his initial [responses here](https://docs.google.com/document/d/1ci-MaqilnWXLibfTUunjEbVzGDCToicF7QC\_dlacWw0/edit?usp=sharing), and know that this is an ongoing discussion).  It is currently halfway through an async process designed by the Petitions process facilitator.  The petitioners presented their petition and the data around it first, and[ you can see that presentation here](https://youtu.be/CuZQ-LEgjmU).  Currently Dimitri will be presenting his side in a presentation on Friday, which should give a full picture of the case as well as the issues observed and possible outcomes for the community to consider.  Soon after this second presentation, a vote will be scheduled to collect a final layer of community input.  [Follow along here for the latest updates](https://discord.com/channels/946921942143885342/1011352732092858398), including when voting on the petition is open.  Hoping for plenty of participation and insight from the community on the issues sensed here.
 
 ## General QA and Treasury Community updates
 
