@@ -44,7 +44,7 @@ The vPA WG (formally called the vPA Process Working Group for the PA/vPA Operati
 > __\
 > _This working group is needed because the vPA process is rapid, complex and iterative, and therefore would benefit from an open, organized pool of contributors who are prepared to carry out tasks within shortened timeframes, but who need appropriate incentives, coordinated approaches and facilitative access to the tasks at hand._&#x20;
 
-* The vPA WG is currently working on [setting up bounties for distributed work](https://app.dework.xyz/catalyst-circle-ca-r/veteran-ca-wg), creating documentation repos on Gitbook, and facilitating the vPA Petitions Process (see below).
+* The vPA WG is currently working on [setting up bounties for distributed work](https://app.dework.xyz/catalyst-circle-ca-r/veteran-ca-wg), creating [documentation repos on Gitbook,](https://pa-vpa-operations-treasury.gitbook.io/vpa-process-working-group/) and facilitating the vPA Petitions Process (see below).
 * Significant tasks on the near horizon for the vPA WG are convening its first meeting, onboarding community members actively working on the iteration of vPA and related guidelines, and electing or otherwise selecting a Trustee to add to the Treasury board of trustees ([see here for some perspective](https://docs.google.com/document/d/1oaSgZdZnQR\_EKUgtFszTnyLlvq45HFEvAVdcv8bRLkQ/edit) on how the Treasury Community reciprocates with its Trustees).
 
 #### How to get involved
@@ -74,6 +74,7 @@ There is an[ active document in the community](https://docs.google.com/document/
 {% endhint %}
 
 * Obviously the Treasury Community is rolling out this Bi-weekly update to be  released on the 1st and 3rd Friday of each month via the Project Catalyst newsletter, but it is also the beginning of a process to migrate the[ existing Treasury Documentation](https://docs.google.com/document/d/1-Uheb5cH6PgjURBod3i95lnjRt5G0Q6WU7n21sSdqvs/edit#heading=h.70qyzqqlye91) over to Gitbook as required by our Governance Framework.  This should help us on our journey to make the Treasury as accessible as possible.
+* Check out[ this suggestion for 2 stage PA process ](https://docs.google.com/document/d/1lRB8OzAgp3nf-QJ1Xp29AodkX8ZPxyWCW0UU0SHEro8/edit)that has been circulating and catching feedback.  This is an idea that has been around the community for a while, and this latest description has added numerous improvements.
 * A friendly reminder that the Treasury Community has a [Code of Conduct](https://docs.google.com/document/d/1bRFsYYbDc52U610XGgg2h-dBFdn2MhgvlXwHtElq3\_0/edit#heading=h.3moreczex8qp) and we appreciate anyone engaging in the claims process, working groups or general communication channels for these things to be aware of it and to  follow it.  It has been designed with a "light touch" and while there is a mediation path provided, it does not currently include an enforcement mechanism, relying instead on the power of an informed community taking responsibility for its own environment.  Like all experiments, we will see how it goes.  As with all Treasury documentation, [there is a process for revising the CoC](https://docs.google.com/document/d/1bRFsYYbDc52U610XGgg2h-dBFdn2MhgvlXwHtElq3\_0/edit#heading=h.8p4gs7ygev3j), which is there to make sure that the conditions required for our participation are always being cultivated.
 
 ## Action items
