@@ -67,6 +67,10 @@ The first 2 petitions have been completed and are ready to be sent on to IOG
 
 A final petition is currently ongoing, [brought against Dimitri Fernando](https://docs.google.com/document/d/1kJCytu6PtD8NNqth6y64aDN2ruwAsBE1uKcv0bUkPWY/edit) (see his initial [responses here](https://docs.google.com/document/d/1ci-MaqilnWXLibfTUunjEbVzGDCToicF7QC\_dlacWw0/edit?usp=sharing), and know that this is an ongoing discussion).  It is currently halfway through an async process designed by the Petitions process facilitator.  The petitioners presented their petition and the data around it first, and[ you can see that presentation here](https://youtu.be/CuZQ-LEgjmU).  Currently Dimitri will be presenting his side in a presentation on Friday, which should give a full picture of the case as well as the issues observed and possible outcomes for the community to consider.  Soon after this second presentation, a vote will be scheduled to collect a final layer of community input.  [Follow along here for the latest updates](https://discord.com/channels/946921942143885342/1011352732092858398), including when voting on the petition is open.  Hoping for plenty of participation and insight from the community on the issues sensed here.
 
+{% hint style="warning" %}
+UPDATE:  The last petition has completed presentations of evidence and [community voting is live with both anonymous and non-anonymous poll options](https://discord.com/channels/946921942143885342/1020086205183950908).
+{% endhint %}
+
 ## General QA and Treasury Community updates
 
 {% hint style="warning" %}
